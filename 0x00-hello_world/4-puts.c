@@ -3,11 +3,11 @@
 /**
  * main - A C program that print a line with puts function
  *
- * Return: 0 (teh program work)
+ * Return: 0 (the program work)
  */
 
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle);
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
